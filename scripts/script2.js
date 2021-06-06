@@ -66,9 +66,9 @@ client.on(client.Event.SDK_READY, function() {
   console.log(treatment);
 
   if (treatment === 'on') {
-    document.getElementsByTagName("MAIN")[0].className = "double-column";
+    document.getElementsByTagName("H1")[0].id = "";
   } else if (treatment === 'off') {
-    document.getElementsByTagName("MAIN")[0].className = "";
+    document.getElementsByTagName("H1")[0].id = "blueify";
   } else {
     // Insert code for control treatment
   }

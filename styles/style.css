@@ -50,6 +50,10 @@ header h1 {
   margin: 22px auto;
 }
 
+#blueify {
+  color: blue;
+}
+
 main {
   display: grid;
   grid-row-gap: 30px;

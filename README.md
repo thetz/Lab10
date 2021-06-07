@@ -17,3 +17,7 @@ The second image is B, where we have the title in blue font:
 ![image](https://user-images.githubusercontent.com/32047306/120937652-8196d400-c6c3-11eb-896a-ffda419c8e8a.png)
 
 We wanted to test which color font for our title (black or blue) is better in our custom A/B testing.  
+
+Part 3:
+![image](https://user-images.githubusercontent.com/32047306/120949478-79f22200-c6f9-11eb-8a5f-30748e526fa1.png)
+

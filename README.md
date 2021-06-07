@@ -2,7 +2,7 @@
 # Andrew Pham & Thet Paing Zaw
 ## Link to Roadmap & Feature Requests page: https://cse110-lab10-thetz.canny.io/feature-requests/p/title-should-be-centered
 
-## Repo for first-split page: https://github.com/thetz/Lab10.git
+## Repo for first-split page: https://github.com/thetz/Lab10.git (same link as this repo)
 
 ## Webpage with first-split: https://thetz.github.io/Lab10/
 

@@ -19,5 +19,8 @@ The second image is B, where we have the title in blue font:
 We wanted to test which color font for our title (black or blue) is better in our custom A/B testing.  
 
 Part 3:
+Tag Manager:
 ![image](https://user-images.githubusercontent.com/32047306/120949478-79f22200-c6f9-11eb-8a5f-30748e526fa1.png)
 
+Realtime Google Analytics:
+![image](https://user-images.githubusercontent.com/32047306/121275992-aab19300-c882-11eb-9a7d-4c96058db00b.png)
